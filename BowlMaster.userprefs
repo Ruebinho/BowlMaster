@@ -1,0 +1,15 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScoreDisplay.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ScoreDisplay.cs" Line="32" Column="32" />
+      <File FileName="Assets\Editor\ScoreDisplayTest.cs" Line="64" Column="17" />
+      <File FileName="Assets\Scripts\ScoreMaster.cs" Line="15" Column="14" />
+      <File FileName="Assets\Scripts\BallDragLaunch.cs" Line="20" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
